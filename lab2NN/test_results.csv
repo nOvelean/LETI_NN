@@ -1,0 +1,2 @@
+Модель,Hidden Size,Val Accuracy,Test Accuracy,Precision,Recall,F1 Score,Epochs,Learning Rate,Batch Size
+GRU,128,95.83,95.83333333333334,96.05263157894738,95.83333333333334,95.79650673400674,30,0.001,32
