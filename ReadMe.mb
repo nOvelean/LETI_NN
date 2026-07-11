@@ -35,7 +35,3 @@
 | [`RNN.ipynb`](./RNN.ipynb) | 📈 SimpleRNN, LSTM, GRU | Временные ряды | Electrical Grid Stability | PyTorch |
 | [`RNN_V2.ipynb`](./RNN_V2.ipynb) | 📊 RNN, LSTM, BiGRU | Классификация последовательностей | Japanese Vowels (9 классов) | PyTorch |
 | [`GAN.ipynb`](./GAN.ipynb) | 🎨 DCGAN, ResBlock | Генерация изображений | CIFAR-10 (лягушки) | PyTorch |
-
----
-
-## 📁 Структура проекта
