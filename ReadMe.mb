@@ -1,0 +1,41 @@
+# 🧠 Deep Learning Lab — Коллекция нейросетевых моделей
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Практическая лаборатория по глубокому обучению**
+*CNN • RNN • LSTM • GRU • GAN*
+
+[📊 Архитектуры](#-архитектуры-моделей) • [🚀 Быстрый старт](#-быстрый-старт) • [📁 Структура](#-структура-проекта)
+
+</div>
+
+---
+
+## 📋 О проекте
+
+Данный репозиторий содержит **4 практические работы** по глубокому обучению, реализованные на Python с использованием фреймворков **PyTorch** и **TensorFlow/Keras**. Каждая работа включает:
+
+- ✅ Полную загрузку и предобработку данных
+- ✅ Несколько архитектур моделей для сравнения
+- ✅ Обучение с визуализацией метрик
+- ✅ Анализ результатов и выводы
+
+---
+
+## 🎯 Архитектуры моделей
+
+| Файл | Тип модели | Задача | Датасет | Фреймворк |
+|------|-----------|--------|---------|-----------|
+| [`CNN.ipynb`](./CNN.ipynb) | 🖼️ CNN, ResNet50 | Классификация изображений | Custom (36 классов) | TensorFlow |
+| [`RNN.ipynb`](./RNN.ipynb) | 📈 SimpleRNN, LSTM, GRU | Временные ряды | Electrical Grid Stability | PyTorch |
+| [`RNN_V2.ipynb`](./RNN_V2.ipynb) | 📊 RNN, LSTM, BiGRU | Классификация последовательностей | Japanese Vowels (9 классов) | PyTorch |
+| [`GAN.ipynb`](./GAN.ipynb) | 🎨 DCGAN, ResBlock | Генерация изображений | CIFAR-10 (лягушки) | PyTorch |
+
+---
+
+## 📁 Структура проекта
